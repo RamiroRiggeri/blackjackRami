@@ -1,0 +1,46 @@
+body {
+  background: url("https://images.freeimages.com/images/large-previews/4dc/free-casino-table-cloth-texture-1637741.jpg");
+  background-size: cover;
+  color: whitesmoke;
+  font-family: "trebuchet MS";
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+#jugador-el {
+  color: goldenrod;
+}
+
+#startGame {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  border-radius: 3px;
+}
+
+#anotherCard {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  color: gold;
+  width: 100px;
+  border-radius: 20px;
+  background: green;
+  border: r;
+  border-color: gold;
+  border-width: 3px;
+}
